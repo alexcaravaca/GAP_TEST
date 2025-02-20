@@ -8,9 +8,9 @@ Create following endpoints:
 4. Get top product category with the rate and count highest
 5. Get the cheapest and expensive product 
 
-available apis: 
-    /products/sorted
-    /products/categories
-    /products/top10
-    /products/top-category
-    /products/extremes
+available apis:<br> 
+http://localhost:3010/products/sorted <br>
+http://localhost:3010/products/categories <br>
+http://localhost:3010/products/top10 <br>
+http://localhost:3010/products/top-category <br>
+http://localhost:3010/products/extremes
